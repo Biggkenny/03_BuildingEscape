@@ -5,3 +5,5 @@
 BuildingEscape/Content/StarterContent/
 *.VC.db*
 *.VC.db-wal
+BuildingEscape/.vs/BuildingEscape/v15/ipch/AutoPCH/174f519a6f29bcc/POSITIONREPORT.ipch
+*.opendb
