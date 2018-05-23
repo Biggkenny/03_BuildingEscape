@@ -1,0 +1,7 @@
+**/Binaries/
+**/Build/
+**/Intermediate/
+**/Saved/
+BuildingEscape/Content/StarterContent/
+*.VC.db*
+*.VC.db-wal
